@@ -1,6 +1,9 @@
 ## Marlin 3D Printer Firmware
 
-Everything in this repo is for Geeetech I3 Pro B  
+Everything in this repo is for Geeetech I3 Pro W
+I just made my own changes in this repo for my 3D-Printer.
+Just use the original repo from "jonsag":
+https://github.com/jonsag/Marlin-3D-Printer-Firmware
 
 *************
 Refer to .md file for the Marlin version you want to use.  
