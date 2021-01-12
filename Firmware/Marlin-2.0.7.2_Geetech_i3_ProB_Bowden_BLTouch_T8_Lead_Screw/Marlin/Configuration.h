@@ -131,7 +131,7 @@
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Geeetech i3 Pro W"
+#define CUSTOM_MACHINE_NAME "GT i3 Pro W"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
@@ -499,9 +499,9 @@
     #define DEFAULT_Ki_LIST {   1.72,   1.72 }
     #define DEFAULT_Kd_LIST { 77.65, 77.65 }
   #else
-    #define DEFAULT_Kp  23.12
-    #define DEFAULT_Ki   1.72
-    #define DEFAULT_Kd 77.65
+    #define DEFAULT_Kp 33.76
+    #define DEFAULT_Ki 3.3
+    #define DEFAULT_Kd 86.41
   #endif
 #endif // PIDTEMP
 
